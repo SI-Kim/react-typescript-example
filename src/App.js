@@ -1,13 +1,12 @@
 function App() {
   return (
-    <div className="App">
+    <div>
       <header></header>
       <body>
         <span>
           <input />
           <button>button</button>
         </span>
-
         <p></p>
       </body>
     </div>
